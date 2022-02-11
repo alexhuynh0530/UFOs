@@ -4,7 +4,7 @@
 
 ### Purpose
 
-This is an anlayis of dynamic webpages to web scraping methods to extract data using the following:
+This is an anlayis of creating dynamic webpages using web scraping methods to extract data using the following:
 - JavaScript
 - HTML, CSS and Bootstrap
 
